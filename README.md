@@ -155,7 +155,10 @@ Qbar=((~T)&Qbar)|(T&(~Qbar));
 end
 endmodule
 ```
+
+
 D FLIPFLOP
+
 ```
 module exp5(D,clk,Q,Qbar);
 input D,clk;
