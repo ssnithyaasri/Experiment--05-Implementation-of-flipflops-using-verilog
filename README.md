@@ -155,8 +155,6 @@ Qbar=((~T)&Qbar)|(T&(~Qbar));
 end
 endmodule
 ```
-
-
 D FLIPFLOP
 
 ```
